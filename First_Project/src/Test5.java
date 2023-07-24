@@ -5,6 +5,9 @@ public class Test5
 	{
 		
 		System.out.println("This is my test file");
+		System.out.println("This is my test file");
+		System.out.println("This is my test file");
+		System.out.println("This is my test file");
 	} 
 
 
