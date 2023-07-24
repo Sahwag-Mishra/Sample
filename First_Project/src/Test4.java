@@ -5,6 +5,8 @@ public class Test4
 	{
 		
 		System.out.println("This is my fourth test file");
+		System.out.println("This is my fourth test file");
+		System.out.println("This is my fourth test file");
 	} 
 
 
