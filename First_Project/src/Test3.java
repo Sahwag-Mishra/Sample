@@ -6,6 +6,9 @@ public class Test3
 	{
 		
 		System.out.println("This is my thst file");
+		System.out.println("This is my thst file");
+		System.out.println("This is my thst file");
+		System.out.println("This is my thst file");
 	} 
 
 
