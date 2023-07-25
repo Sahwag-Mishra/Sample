@@ -6,6 +6,10 @@ public class Test1
 	{
 		
 		System.out.println("This is my first test file");
+		System.out.println("This is my first test file");
+		System.out.println("This is my first test file");
+		System.out.println("This is my first test file");
+		 
 	} 
 
 
